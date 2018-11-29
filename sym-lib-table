@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name lee_mech_key_comp)(type Legacy)(uri ${KIPRJMOD}/lee_mech_key_comp.lib)(options "")(descr ""))
+)

@@ -1,0 +1,2107 @@
+Cmp-Mod V01 Created by PcbNew   date = 10/30/2018 12:16:41 AM
+
+BeginCmp
+TimeStamp = 5BD36521
+Path = /5C649531
+Reference = Aa1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3653F
+Path = /5C9853DE
+Reference = BACKSLASH1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_150H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36589
+Path = /5C9853D7
+Reference = BACKSPACE1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_200H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD365A7
+Path = /5C7BF449
+Reference = Bb1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD365C5
+Path = /595DDB38
+Reference = CAPLOCK1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_175H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD365E3
+Path = /5C6DF777
+Reference = Cc1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36601
+Path = /5C856170
+Reference = COMMA1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3661F
+Path = /5C64953F
+Reference = COMMAND1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_125H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD7C4CA
+Path = /5961E3E3
+Reference = D1;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36651
+Path = /595D8245
+Reference = D2;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3666A
+Path = /595D8D96
+Reference = D3;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD7460E
+Path = /595DDB44
+Reference = D4;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3669C
+Path = /595DDC55
+Reference = D5;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD366B5
+Path = /595DDD66
+Reference = D6;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD7427C
+Path = /595D1DE7
+Reference = D7;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD366E7
+Path = /595D8259
+Reference = D8;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36700
+Path = /595D8DAA
+Reference = D9;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36719
+Path = /595DDB58
+Reference = D10;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36732
+Path = /595DDC69
+Reference = D11;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3674B
+Path = /595DDD7A
+Reference = D12;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36764
+Path = /595D2BD5
+Reference = D13;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3677D
+Path = /595D826D
+Reference = D14;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36796
+Path = /595D8DBE
+Reference = D15;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD367AF
+Path = /595DDB6C
+Reference = D16;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD367C8
+Path = /595DDC7D
+Reference = D17;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD367E1
+Path = /595DDD8E
+Reference = D18;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD367FA
+Path = /595D2BE9
+Reference = D19;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36813
+Path = /595D8281
+Reference = D20;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3682C
+Path = /595D8DD2
+Reference = D21;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36845
+Path = /595DDB80
+Reference = D22;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3685E
+Path = /595DDC91
+Reference = D23;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36877
+Path = /595DDDA2
+Reference = D24;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36890
+Path = /595D37E4
+Reference = D25;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD368A9
+Path = /595D8295
+Reference = D26;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD368C2
+Path = /595D8DE6
+Reference = D27;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD368DB
+Path = /595DDB94
+Reference = D28;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD368F4
+Path = /595DDCA5
+Reference = D29;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3690D
+Path = /595DDDB6
+Reference = D30;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36926
+Path = /595D37F8
+Reference = D31;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3693F
+Path = /595D82A9
+Reference = D32;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36958
+Path = /595D8DFA
+Reference = D33;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36971
+Path = /595DDBA8
+Reference = D34;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3698A
+Path = /595DDCB9
+Reference = D35;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD369A3
+Path = /595DDDCA
+Reference = D36;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD369BC
+Path = /595D380C
+Reference = D37;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD369D5
+Path = /595D82BD
+Reference = D38;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD369EE
+Path = /595D8E0E
+Reference = D39;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36A07
+Path = /595DDBBC
+Reference = D40;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36A20
+Path = /595DDCCD
+Reference = D41;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36A39
+Path = /595DDDDE
+Reference = D42;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36A52
+Path = /595D3820
+Reference = D43;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36A6B
+Path = /595D82D1
+Reference = D44;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36A84
+Path = /595D8E22
+Reference = D45;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36A9D
+Path = /595DDBD0
+Reference = D46;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36AB6
+Path = /595DDCE1
+Reference = D47;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36ACF
+Path = /595DDDF2
+Reference = D48;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36AE8
+Path = /59643026
+Reference = D49;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36B01
+Path = /5964336E
+Reference = D50;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36B1A
+Path = /596436B1
+Reference = D51;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36B33
+Path = /59644C09
+Reference = D52;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36B4C
+Path = /59644F56
+Reference = D53;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36B65
+Path = /596452A8
+Reference = D54;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36B7E
+Path = /595D5858
+Reference = D55;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36B97
+Path = /595D82F2
+Reference = D56;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36BB0
+Path = /595D8E43
+Reference = D57;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36BC9
+Path = /595DDBF1
+Reference = D58;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36BE2
+Path = /595DDD02
+Reference = D59;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36BFB
+Path = /595DDE13
+Reference = D60;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36C14
+Path = /595D586C
+Reference = D61;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36C2D
+Path = /595D8306
+Reference = D62;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36C46
+Path = /595D8E57
+Reference = D63;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36C5F
+Path = /595DDC05
+Reference = D64;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36C78
+Path = /595DDD16
+Reference = D65;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36C91
+Path = /595DDE27
+Reference = D66;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36CAA
+Path = /595D5880
+Reference = D67;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36CC3
+Path = /595D831A
+Reference = D68;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36CDC
+Path = /595D8E6B
+Reference = D69;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36CF5
+Path = /595DDC19
+Reference = D70;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36D0E
+Path = /595DDD2A
+Reference = D71;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36D27
+Path = /595DDE3B
+Reference = D72;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36D40
+Path = /595D5894
+Reference = D73;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36D59
+Path = /595D832E
+Reference = D74;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36D72
+Path = /595D8E7F
+Reference = D75;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36D8B
+Path = /595DDC2D
+Reference = D76;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36DA4
+Path = /595DDD3E
+Reference = D77;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36DBD
+Path = /595DDE4F
+Reference = D78;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36DD6
+Path = /595D58A8
+Reference = D79;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36DEF
+Path = /595D8342
+Reference = D80;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36E08
+Path = /595D8E93
+Reference = D81;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36E21
+Path = /595DDC41
+Reference = D82;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36E3A
+Path = /595DDD52
+Reference = D83;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36E53
+Path = /595DDE63
+Reference = D84;
+ValeurCmp = DIODE;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36E71
+Path = /5C6DF770
+Reference = Dd1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD73522
+Path = /5C9D151C
+Reference = DELETE1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36EAD
+Path = /5C8A192C
+Reference = DOT1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36ECB
+Path = /5C9853F3
+Reference = DOWN1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36EE9
+Path = /5C6DF769
+Reference = Ee1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36F07
+Path = /5C7BF434
+Reference = EIGHT8;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36F25
+Path = /5C9D1538
+Reference = END1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36F6F
+Path = /5C9853E5
+Reference = ENTER1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_225H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36F8D
+Path = /5C8ED3B4
+Reference = EQUAL1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36FAB
+Path = /5961E2E7
+Reference = ESC1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36FD5
+Path = /59635FF2
+Reference = ext_1;
+ValeurCmp = ext_module_comp;
+IdModule  = sw_fprint_wLed:ext_module_footprint;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36FF3
+Path = /5C64951C
+Reference = F1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37011
+Path = /5C695759
+Reference = F2;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3702F
+Path = /5C6DF75B
+Reference = F3;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3704D
+Path = /5C729AEC
+Reference = F4;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3706B
+Path = /5C729AE5
+Reference = F5;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37089
+Path = /5C774B0D
+Reference = F6;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD370A7
+Path = /5C7BF426
+Reference = F7;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD370C5
+Path = /5C809E4D
+Reference = F8;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD370E3
+Path = /5C809E54
+Reference = F9;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37101
+Path = /5C856154
+Reference = F10;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3711F
+Path = /5C8A1910
+Reference = F11;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3713D
+Path = /5C8ED3AD
+Reference = F12;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3715B
+Path = /5C729B01
+Reference = Ff1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37179
+Path = /5C774B1B
+Reference = FIVE5;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37197
+Path = /5C729AF3
+Reference = FOUR4;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD371B5
+Path = /5C8ED3D0
+Reference = FUNC1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD371D3
+Path = /5C774B30
+Reference = Gg1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD371F1
+Path = /595D8239
+Reference = GRAVE1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3720F
+Path = /5C7BF442
+Reference = Hh1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3722D
+Path = /5C9D1523
+Reference = HOME1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3724B
+Path = /5C809E62
+Reference = Ii1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37269
+Path = /5C9853D0
+Reference = INSERT1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37287
+Path = /5C809E69
+Reference = Jj1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD372A5
+Path = /5C856169
+Reference = Kk1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD372C3
+Path = /5C69577C
+Reference = LALT1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_125H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD372E1
+Path = /5C8ED3BB
+Reference = LBRAKET1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3A6B3
+Path = /595DDD5A
+Reference = LCTRL1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_125H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3731D
+Path = /5C93939C
+Reference = LEFT1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3733B
+Path = /5C8A1925
+Reference = Ll1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37385
+Path = /595DDC49
+Reference = LSHIFT1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_225H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD373E5
+Path = /5C8A1917
+Reference = MINUS1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37403
+Path = /5C856177
+Reference = Mm1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37421
+Path = /5C809E5B
+Reference = NINE9;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3743F
+Path = /5C809E70
+Reference = Nn1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3745D
+Path = /5C649523
+Reference = ONE1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3747B
+Path = /5C856162
+Reference = Oo1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37490
+Path = /5973E278
+Reference = P_jump_trans1;
+ValeurCmp = CONN_01X01;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD374A5
+Path = /5973F3AB
+Reference = P_jump_trans2;
+ValeurCmp = CONN_01X01;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD374BA
+Path = /5973F728
+Reference = P_jump_trans3;
+ValeurCmp = CONN_01X01;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD374D8
+Path = /5C9D1531
+Reference = PAGEDOWN1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD374F6
+Path = /5C9D152A
+Reference = PAGEUP1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37514
+Path = /5C8A191E
+Reference = Pp1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37532
+Path = /5C939380
+Reference = PRINTSCREEN1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37550
+Path = /5C64952A
+Reference = Qq1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3756E
+Path = /5C93938E
+Reference = QUOTE1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3757F
+Path = /5961E3AC
+Reference = R1;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37590
+Path = /595D823F
+Reference = R2;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD375A1
+Path = /595D8D90
+Reference = R3;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD375B2
+Path = /595DDB3E
+Reference = R4;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD375C3
+Path = /595DDC4F
+Reference = R5;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD375D4
+Path = /595DDD60
+Reference = R6;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD375E5
+Path = /5BF10930
+Reference = R7;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD375F6
+Path = /5BF10937
+Reference = R8;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37607
+Path = /5BF1093E
+Reference = R9;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37618
+Path = /5BF10945
+Reference = R10;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37629
+Path = /5BF1094C
+Reference = R11;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3763A
+Path = /5BF10953
+Reference = R12;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3764B
+Path = /5BF6174B
+Reference = R13;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3765C
+Path = /5BF61752
+Reference = R14;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3766D
+Path = /5BF61759
+Reference = R15;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3767E
+Path = /5BF61760
+Reference = R16;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3768F
+Path = /5BF61767
+Reference = R17;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD376A0
+Path = /5BF6176E
+Reference = R18;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD376B1
+Path = /5BFA8EAF
+Reference = R19;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD376C2
+Path = /5BFA8EB6
+Reference = R20;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD376D3
+Path = /5BFA8EBD
+Reference = R21;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD376E4
+Path = /5BFA8EC4
+Reference = R22;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD376F5
+Path = /5BFA8ECB
+Reference = R23;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37706
+Path = /5BFA8ED2
+Reference = R24;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37717
+Path = /5BFF052D
+Reference = R25;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37728
+Path = /5BFF0534
+Reference = R26;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37739
+Path = /5BFF053B
+Reference = R27;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3774A
+Path = /5BFF0542
+Reference = R28;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3775B
+Path = /5BFF0549
+Reference = R29;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3776C
+Path = /5BFF0550
+Reference = R30;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3777D
+Path = /5C0374CA
+Reference = R31;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3778E
+Path = /5C0374D1
+Reference = R32;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3779F
+Path = /5C0374D8
+Reference = R33;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD377B0
+Path = /5C0374DF
+Reference = R34;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD377C1
+Path = /5C0374E6
+Reference = R35;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD377D2
+Path = /5C0374ED
+Reference = R36;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD377E3
+Path = /5C07E10A
+Reference = R37;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD377F4
+Path = /5C07E111
+Reference = R38;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37805
+Path = /5C07E118
+Reference = R39;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37816
+Path = /5C07E11F
+Reference = R40;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37827
+Path = /5C07E126
+Reference = R41;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37838
+Path = /5C07E12D
+Reference = R42;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37849
+Path = /5C0C4817
+Reference = R43;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3785A
+Path = /5C0C481E
+Reference = R44;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3786B
+Path = /5C0C4825
+Reference = R45;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3787C
+Path = /5C0C482C
+Reference = R46;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3788D
+Path = /5C0C4833
+Reference = R47;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3789E
+Path = /5C0C483A
+Reference = R48;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD378AF
+Path = /5C10B448
+Reference = R49;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD378C0
+Path = /5C10B44F
+Reference = R50;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD378D1
+Path = /5C10B456
+Reference = R51;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD378E2
+Path = /5C10B45D
+Reference = R52;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD378F3
+Path = /5C10B464
+Reference = R53;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37904
+Path = /5C10B46B
+Reference = R54;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37915
+Path = /5C153438
+Reference = R55;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37926
+Path = /5C15343F
+Reference = R56;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37937
+Path = /5C153446
+Reference = R57;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37948
+Path = /5C15344D
+Reference = R58;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37959
+Path = /5C153454
+Reference = R59;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3796A
+Path = /5C15345B
+Reference = R60;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3797B
+Path = /5C19AAC5
+Reference = R61;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3798C
+Path = /5C19AACC
+Reference = R62;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3799D
+Path = /5C19AAD3
+Reference = R63;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD379AE
+Path = /5C19AADA
+Reference = R64;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD379BF
+Path = /5C19AAE1
+Reference = R65;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD379D0
+Path = /5C19AAE8
+Reference = R66;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD379E1
+Path = /5C1E1D4E
+Reference = R67;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD379F2
+Path = /5C1E1D55
+Reference = R68;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37A03
+Path = /5C1E1D5C
+Reference = R69;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37A14
+Path = /5C1E1D63
+Reference = R70;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37A25
+Path = /5C1E1D6A
+Reference = R71;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37A36
+Path = /5C1E1D71
+Reference = R72;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37A47
+Path = /5C228BC0
+Reference = R73;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37A58
+Path = /5C228BC7
+Reference = R74;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37A69
+Path = /5C228BCE
+Reference = R75;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37A7A
+Path = /5C228BD5
+Reference = R76;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37A8B
+Path = /5C228BDC
+Reference = R77;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37A9C
+Path = /5C228BE3
+Reference = R78;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37AAD
+Path = /5C26F677
+Reference = R79;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37ABE
+Path = /5C26F67E
+Reference = R80;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37ACF
+Path = /5C26F685
+Reference = R81;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37AE0
+Path = /5C26F68C
+Reference = R82;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37AF1
+Path = /5C26F693
+Reference = R83;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37B02
+Path = /5C26F69A
+Reference = R84;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37B13
+Path = /59730AF2
+Reference = R_trans1;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37B24
+Path = /597311E9
+Reference = R_trans2;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37B35
+Path = /59730E92
+Reference = R_trans3;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37B53
+Path = /5C8A1933
+Reference = RALT1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37B71
+Path = /5C939387
+Reference = RBRAKET1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37B8F
+Path = /5C9393A3
+Reference = RCTRL1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37BAD
+Path = /5C9D153F
+Reference = RIGHT1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37BCB
+Path = /5C729AFA
+Reference = Rr1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37BE9
+Path = /5C939395
+Reference = RSHIFT1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_175H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37C07
+Path = /5C8ED3C2
+Reference = SEMICOLON1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37C25
+Path = /5C7BF42D
+Reference = SEVEN7;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37C43
+Path = /5C774B14
+Reference = SIX6;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37C61
+Path = /5C8ED3C9
+Reference = SLASH1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37CAB
+Path = /5C6DF77E
+Reference = SPACE1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_625H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37CC9
+Path = /5C69576E
+Reference = Ss1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37CE7
+Path = /595D8D8A
+Reference = TAB1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_150H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37D05
+Path = /5C6DF762
+Reference = THREE3;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37D1A
+Path = /595D0381
+Reference = Transistor1;
+ValeurCmp = 2SC1815;
+IdModule  = Package_TO_SOT_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37D2F
+Path = /595D03F6
+Reference = Transistor2;
+ValeurCmp = 2SC1815;
+IdModule  = Package_TO_SOT_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37D44
+Path = /595CFC94
+Reference = Transistor3;
+ValeurCmp = 2SC1815;
+IdModule  = Package_TO_SOT_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37D62
+Path = /5C774B22
+Reference = Tt1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37D80
+Path = /5C695760
+Reference = TWO2;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37D9E
+Path = /5C9853EC
+Reference = UP1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37DBC
+Path = /5C7BF43B
+Reference = Uu1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37DDA
+Path = /5C729B08
+Reference = Vv1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37DF8
+Path = /5C695767
+Reference = Ww1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37E16
+Path = /5C695775
+Reference = Xx1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37E34
+Path = /5C774B29
+Reference = Yy1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37E52
+Path = /5C85615B
+Reference = ZERO0;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37E70
+Path = /5C649538
+Reference = Zz1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = sw_fprint_wLed:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD7D648
+Path = /5963FAD0
+Reference = MCU1;
+ValeurCmp = Teensy2.0++;
+IdModule  = sw_fprint_wLed:Teensy2.0++_footprint;
+EndCmp
+
+EndListe
