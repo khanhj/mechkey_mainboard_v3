@@ -1783,17 +1783,6 @@ Wire Wire Line
 	14300 9500 14300 9650
 Connection ~ 14300 9650
 $Comp
-L lee_mech_key_comp:ext_module_comp ext_1
-U 1 1 59635FF2
-P 5550 13900
-F 0 "ext_1" H 5550 13900 60  0000 C CNN
-F 1 "ext_module_comp" H 5650 13800 60  0000 C CNN
-F 2 "sw_fprint_wLed:ext_module_footprint" H 5550 13900 60  0001 C CNN
-F 3 "" H 5550 13900 60  0001 C CNN
-	1    5550 13900
-	1    0    0    -1  
-$EndComp
-$Comp
 L lee_mech_key_comp:Teensy2.0++ MCU1
 U 1 1 5963FAD0
 P 7750 14250
@@ -4141,25 +4130,7 @@ Connection ~ 18250 9200
 Wire Wire Line
 	18250 9200 19300 9200
 Wire Wire Line
-	6400 13750 6500 13750
-Wire Wire Line
 	6500 13750 6500 13250
-Wire Wire Line
-	7900 14450 7900 14750
-Wire Wire Line
-	7900 14750 5150 14750
-Wire Wire Line
-	5150 14750 5150 13750
-Wire Wire Line
-	5150 13750 5350 13750
-Wire Wire Line
-	7950 14800 5100 14800
-Wire Wire Line
-	5100 14800 5100 13800
-Wire Wire Line
-	5100 13800 5350 13800
-Wire Wire Line
-	7950 14450 7950 14800
 Wire Wire Line
 	7100 11200 7100 12900
 Wire Wire Line
@@ -4226,8 +4197,6 @@ Wire Wire Line
 	4100 5950 7300 5950
 Wire Wire Line
 	4150 6000 6250 6000
-Wire Wire Line
-	4250 12950 5600 12950
 Connection ~ 4250 9200
 Wire Wire Line
 	4250 9200 5350 9200
@@ -4259,13 +4228,6 @@ Wire Wire Line
 	9850 11450 12800 11450
 Wire Wire Line
 	9850 11200 11500 11200
-Wire Wire Line
-	5600 13350 5600 12950
-Connection ~ 5600 12950
-Wire Wire Line
-	5600 12950 7800 12950
-NoConn ~ 5700 13350
-NoConn ~ 5800 13350
 NoConn ~ 8950 13350
 NoConn ~ 9000 13350
 NoConn ~ 9050 13350
@@ -5484,10 +5446,7 @@ Wire Wire Line
 Wire Wire Line
 	8700 13000 23650 13000
 Wire Wire Line
-	7500 11800 5900 11800
-Wire Wire Line
 	7500 11800 11800 11800
-Connection ~ 7500 11800
 Wire Wire Line
 	15950 11800 15950 11450
 Connection ~ 13100 11800
@@ -5496,8 +5455,6 @@ Wire Wire Line
 Connection ~ 11800 11800
 Wire Wire Line
 	11800 11800 13100 11800
-Wire Wire Line
-	5900 11800 5900 13350
 Wire Wire Line
 	7500 11800 7500 14650
 Wire Wire Line
@@ -5552,17 +5509,61 @@ Wire Wire Line
 	3850 9850 8450 9850
 NoConn ~ 8550 13350
 Wire Wire Line
-	6500 13800 6400 13800
-Wire Wire Line
-	6500 14700 6500 13800
-Wire Wire Line
-	7850 14450 7850 14700
-Wire Wire Line
-	7850 14700 6500 14700
-Wire Wire Line
 	7950 12900 7950 13350
 Wire Wire Line
 	7100 12900 7950 12900
 Wire Wire Line
 	7850 13350 7850 12800
+Wire Wire Line
+	4250 12950 5150 12950
+$Comp
+L lee_mech_key_comp:R Photo_Resistor?
+U 1 1 5C1AC1D3
+P 5700 14100
+F 0 "Photo_Resistor?" V 5780 14100 50  0000 C CNN
+F 1 "R" V 5700 14100 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" V 5630 14100 50  0001 C CNN
+F 3 "" H 5700 14100 50  0000 C CNN
+	1    5700 14100
+	0    1    1    0   
+$EndComp
+$Comp
+L lee_mech_key_comp:R R_photo?
+U 1 1 5C1ACACD
+P 6250 14100
+F 0 "R_photo?" V 6330 14100 50  0000 C CNN
+F 1 "R" V 6250 14100 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" V 6180 14100 50  0001 C CNN
+F 3 "" H 6250 14100 50  0000 C CNN
+	1    6250 14100
+	0    1    1    0   
+$EndComp
+NoConn ~ 7850 14450
+NoConn ~ 7900 14450
+NoConn ~ 7950 14450
+Wire Wire Line
+	5850 14100 6000 14100
+Wire Wire Line
+	6400 14100 7150 14100
+Wire Wire Line
+	7150 14100 7150 14650
+Wire Wire Line
+	7150 14650 7500 14650
+Connection ~ 7500 14650
+Wire Wire Line
+	5150 12950 5150 14100
+Wire Wire Line
+	5150 14100 5550 14100
+Connection ~ 5150 12950
+Wire Wire Line
+	5150 12950 7800 12950
+Wire Wire Line
+	6000 14100 6000 13750
+Wire Wire Line
+	6000 13750 6500 13750
+Connection ~ 6000 14100
+Wire Wire Line
+	6000 14100 6100 14100
+Text Label 6100 13750 0    50   ~ 0
+auto_control_led_dim
 $EndSCHEMATC
